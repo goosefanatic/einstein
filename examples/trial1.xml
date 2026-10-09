@@ -34,8 +34,7 @@
     <config>
       <us_inventory>
         <outcommod>spent_fuel</outcommod>
-        <assemblies_file>./assemblies.csv</assemblies_file>
-        <composition_file>./composition.csv</composition_file>
+        <data_dir>./assembly_data/</data_dir>
       </us_inventory>
     </config>
   </facility>
